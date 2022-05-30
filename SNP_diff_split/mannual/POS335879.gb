@@ -1,0 +1,193 @@
+LOCUS       CP001509                4001 bp    DNA     linear   BCT 16-FEB-2017
+DEFINITION  Escherichia coli BL21(DE3), complete genome.
+ACCESSION   CP001509 REGION: 333879..337879
+VERSION     CP001509.3  GI:296142109
+DBLINK      BioProject: PRJNA20713
+            BioSample: SAMN02603478
+KEYWORDS    .
+SOURCE      Escherichia coli BL21(DE3)
+  ORGANISM  Escherichia coli BL21(DE3)
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Barbe,V., Lee,C.H., Vallenet,D., Yu,D.S., Choi,S.H.,
+            Couloux,A., Lee,S.W., Yoon,S.H., Cattolico,L., Hur,C.G., Park,H.S.,
+            Segurens,B., Kim,S.C., Oh,T.K., Lenski,R.E., Studier,F.W.,
+            Daegelen,P. and Kim,J.F.
+  TITLE     Genome sequences of Escherichia coli B strains REL606 and BL21(DE3)
+  JOURNAL   J. Mol. Biol. 394 (4), 644-652 (2009)
+   PUBMED   19786035
+REFERENCE   2  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+REFERENCE   3  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JAN-2017) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Protein update by submitter
+COMMENT     On May 17, 2010 this sequence version replaced CP001509.2.
+            Bacteria available from F. William Studier (studier@bnl.gov).
+FEATURES             Location/Qualifiers
+     source          1..4001
+                     /organism="Escherichia coli BL21(DE3)"
+                     /mol_type="genomic DNA"
+                     /strain="BL21(DE3)"
+                     /db_xref="taxon:469008"
+     gene            complement(<1..1962)
+                     /gene="lacZ"
+                     /locus_tag="ECD_00298"
+     CDS             complement(<1..1962)
+                     /gene="lacZ"
+                     /locus_tag="ECD_00298"
+                     /EC_number="3.2.1.23"
+                     /note="similar to b0344"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-D-galactosidase"
+                     /protein_id="ACT42197.1"
+                     /db_xref="GI:253976527"
+                     /translation="MTMITDSLAVVLQRRDWENPGVTQLNRLAAHPPFASWRNSEEAR
+                     TDRPSQQLRSLNGEWRFAWFPAPEAVPESWLECDLPEADTVVVPSNWQMHGYDAPIYT
+                     NVTYPITVNPPFVPTENPTGCYSLTFNVDESWLQEGQTRIIFDGVNSAFHLWCNGRWV
+                     GYGQDSRLPSEFDLSAFLRAGENRLAVMVLRWSDGSYLEDQDMWRMSGIFRDVSLLHK
+                     PTTQISDFHVATRFNDDFSRAVLEAEVQMCGELRDYLRVTVSLWQGETQVASGTAPFG
+                     GEIIDERGGYADRVTLRLNVENPKLWSAEIPNLYRAVVELHTADGTLIEAEACDVGFR
+                     EVRIENGLLLLNGKPLLIRGVNRHEHHPLHGQVMDEQTMVQDILLMKQNNFNAVRCSH
+                     YPNHPLWYTLCDRYGLYVVDEANIETHGMVPMNRLTDDPRWLPAMSERVTRMVQRDRN
+                     HPSVIIWSLGNESGHGANHDALYRWIKSVDPSRPVQYEGGGADTTATDIICPMYARVD
+                     EDQPFPAVPKWSIKKWLSLPGETRPLILCEYAHAMGNSLGGFAKYWQAFRQYPRLQGG
+                     FVWDWVDQSLIKYDENGNPWSAYGGDFGDTPNDRQFCMNGLVFADRTPHPALTEAKHQ
+                     QQFFQFRLSGQTIEVTSEYLFRHSDNELLHWMVALDGKPLASGEVPLDVAPQGKQLIE
+                     LPELPQPESAGQLWLTVRVVQPNATAWSEAGHISAWQQWRLAENLSVTLPAASHAIPH
+                     LTTSEMDFCIELGNKRWQFNRQSGFLSQMWIGDKKQLLTPLRDQFTRAPLDNDIGVSE
+                     ATRIDPNAWVERWKAAGHYQAEAALLQCTADTLADAVLITTAHAWQHQGKTLFISRKT
+                     YRIDGSGQMAITVDVEVASDTPHPARIGLNCQLAQVAERVNWLGLGPQENYPDRLTAA
+                     CFDRWDLPLSDMYTPYVFPSENGLRCGTRELNYGPHQWRGDFQFNISRYSQQQLMETS
+                     HRHLLHAEEGTWLNIDGFHMGIGGDDSWSPSVSAEFQLSAGRYHYQLVWCQK"
+     gene            complement(2085..3167)
+                     /gene="lacI"
+                     /locus_tag="ECD_00299"
+     CDS             complement(2085..3167)
+                     /gene="lacI"
+                     /locus_tag="ECD_00299"
+                     /note="similar to b0345"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lactose-inducible lac operon transcriptional
+                     repressor"
+                     /protein_id="ACT42198.1"
+                     /db_xref="GI:253976528"
+                     /translation="MKPVTLYDVAEYAGVSYQTVSRVVNQASHVSAKTREKVEAAMAE
+                     LNYIPNRVAQQLAGKQSLLIGVATSSLALHAPSQIVAAIKSRADQLGASVVVSMVERS
+                     GVEACKAAVHNLLAQRVSGLIINYPLDDQDAIAVEAACTNVPALFLDVSDQTPINSII
+                     FSHEDGTRLGVEHLVALGHQQIALLAGPLSSVSARLRLAGWHKYLTRNQIQPIAEREG
+                     DWSAMSGFQQTMQMLNEGIVPTAMLVANDQMALGAMRAITESGLRVGADISVVGYDDT
+                     EDSSCYIPPLTTIKQDFRLLGQTSVDRLLQLSQGQAVKGNQLLPVSLVKRKTTLAPNT
+                     QTASPRALADSLMQLARQVSRLESGQ"
+     gene            complement(3244..>4001)
+                     /gene="mhpR"
+                     /locus_tag="ECD_00300"
+     CDS             complement(3244..>4001)
+                     /gene="mhpR"
+                     /locus_tag="ECD_00300"
+                     /note="similar to b0346"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="mhp operon transcriptional activator"
+                     /protein_id="ACT42199.2"
+                     /db_xref="GI:1132603991"
+                     /translation="MQNNEQTEYKTVRGLTRGLMLLNMLNKLDGGASVGLLAELSGLH
+                     RTTVRRLLETLQEEGYVRRSPSDDSFRLTIKVRQLSEGFRDEQWISALAAPLLGDLLR
+                     EVVWPTDVSTLDVDAMVVRETTHRFSRLSFHRAMVGRRLPLLKTASGLTWLAFCPEQD
+                     RKELIEMLASRPGDDYQLAREPLKLEAILARARKEGYGQNYRGWDQEEKIASIAVPLR
+                     SEQRVIGCLNLVYMASAMTIEQAAEKHLPALQRVAKQIEEGVESQAILVAGRRSGMHL
+                     R"
+ORIGIN      
+        1 gtgcaggagc tcgttatcgc tatgacggaa caggtattcg ctggtcactt cgatggtttg
+       61 cccggataaa cggaactgga aaaactgctg ctggtgtttt gcttccgtca gcgctggatg
+      121 cggcgtgcgg tcggcaaaga ccagaccgtt catacagaac tggcgatcgt tcggcgtatc
+      181 gccaaaatca ccgccgtaag ccgaccacgg gttgccgttt tcatcatatt taatcagcga
+      241 ctgatccacc cagtcccaga cgaagccgcc ctgtaaacgg ggatactgac gaaacgcctg
+      301 ccagtattta gcgaaaccgc caagactgtt acccatcgcg tgggcgtatt cgcaaaggat
+      361 cagcgggcgc gtctctccag gtagcgaaag ccattttttg atggaccatt tcggcacagc
+      421 cgggaagggc tggtcttcat ccacgcgcgc gtacatcggg caaataatat cggtggccgt
+      481 ggtgtcggct ccgccgcctt catactgcac cgggcgggaa ggatcgacag atttgatcca
+      541 gcgatacagc gcgtcgtgat tagcgccgtg gcctgattca ttccccagcg accagatgat
+      601 cacactcggg tgattacgat cgcgctgcac cattcgcgtt acgcgttcgc tcatcgccgg
+      661 tagccagcgc ggatcatcgg tcagacgatt cattggcacc atgccgtggg tttcaatatt
+      721 ggcttcatcc accacataca ggccgtagcg gtcgcacagc gtgtaccaca gcggatggtt
+      781 cggataatgc gaacagcgca cggcgttaaa gttgttctgc ttcatcagca ggatatcctg
+      841 caccatcgtc tgctcatcca tgacctgacc atgcagagga tgatgctcgt gacggttaac
+      901 gcctcgaatc agcaacggct tgccgttcag cagcagcaga ccattttcaa tccgcacctc
+      961 gcggaaaccg acatcgcagg cttctgcttc aatcagcgtg ccgtcggcgg tgtgcagttc
+     1021 aaccaccgca cgatagagat tcgggatttc ggcgctccac agtttcgggt tttcgacgtt
+     1081 cagacgtagt gtgacgcgat cggcataacc accacgctca tcgataattt caccgccgaa
+     1141 aggcgcggtg ccgctggcga cctgcgtttc accctgccat aaagaaactg ttacccgtag
+     1201 gtagtcacgc aactcgccgc acatctgaac ttcagcctcc agtacagcgc ggctgaaatc
+     1261 atcattaaag cgagtggcaa catggaaatc gctgatttgt gtagtcggtt tatgcagcaa
+     1321 cgagacgtca cggaaaatgc cgctcatccg ccacatatcc tgatcttcca gataactgcc
+     1381 gtcactccag cgcagcacca tcaccgcgag gcggttttct ccggcgcgta aaaatgcgct
+     1441 caggtcaaat tcagacggca aacgactgtc ctggccgtaa ccgacccagc gcccgttgca
+     1501 ccacagatga aacgccgagt taacgccatc aaaaataatt cgcgtctggc cttcctgtag
+     1561 ccagctttca tcaacattaa atgtgagcga gtaacaaccc gtcggattct ccgtgggaac
+     1621 aaacggcgga ttgaccgtaa tgggataggt cacgttggtg tagatgggcg catcgtaacc
+     1681 gtgcatctgc cagtttgagg ggacgacgac agtatcggcc tcaggaagat cgcactccag
+     1741 ccagctttcc ggcaccgctt ctggtgccgg aaaccaggca aagcgccatt cgccattcag
+     1801 gctgcgcaac tgttgggaag ggcgatcggt gcgggcctct tcgctattac gccagctggc
+     1861 gaaaggggga tgtgctgcaa ggcgattaag ttgggtaacg ccagggtttt cccagtcacg
+     1921 acgttgtaaa acgacggcca gtgaatccgt aatcatggtc atagctgttt cctgtgtgaa
+     1981 attgttatcc gctcacaatt tcacacaaca tacgagccgg aagcataaag tgtaaagcct
+     2041 ggggtgccta atgagtgagc taactcacat taattgcgtt gcgctcactg cccgctttcc
+     2101 agtcgggaaa cctgtcgtgc cagctgcatt aatgaatcgg ccaacgcgcg gggagaggcg
+     2161 gtttgcgtat tgggcgccag ggtggttttt cttttcacca gtgagacggg caacagctga
+     2221 ttgcccttca ccgcctggcc ctgagagagt tgcagcaagc ggtccacgct ggtttgcccc
+     2281 agcaggcgaa aatcctgttt gatggtggtt aacggcggga tataacatga gctgtcttcg
+     2341 gtatcgtcgt atcccactac cgagatatcc gcaccaacgc gcagcccgga ctcggtaatg
+     2401 gcgcgcattg cgcccagcgc catctgatcg ttggcaacca gcatcgcagt gggaacgatg
+     2461 ccctcattca gcatttgcat ggtttgttga aaaccggaca tggcactcca gtcgccttcc
+     2521 cgttccgcta tcggctgaat ttgattgcga gtgagatatt tatgccagcc agccagacgc
+     2581 agacgcgccg agacagaact taatgggccc gctaacagcg cgatttgctg gtgacccaat
+     2641 gcgaccagat gctccacgcc cagtcgcgta ccgtcttcat gggagaaaat aatactgttg
+     2701 atgggtgtct ggtcagagac atcaagaaat aacgccggaa cattagtgca ggcagcttcc
+     2761 acagcaatgg catcctggtc atccagcgga tagttaatga tcagcccact gacgcgttgc
+     2821 gcgagaagat tgtgcaccgc cgctttacag gcttcgacgc cgcttcgttc taccatcgac
+     2881 accaccacgc tggcacccag ttgatcggcg cgagatttaa tcgccgcgac aatttgcgac
+     2941 ggcgcgtgca gggccagact ggaggtggca acgccaatca gcaacgactg tttgcccgcc
+     3001 agttgttgtg ccacgcggtt gggaatgtaa ttcagctccg ccatcgccgc ttccactttt
+     3061 tcccgcgttt tcgcagaaac gtggctggcc tggttcacca cgcgggaaac ggtctgataa
+     3121 gagacaccgg catactctgc gacatcgtat aacgttactg gtttcacatt caccaccctg
+     3181 aattgactct cttccgggcg ctatcatgcc ataccgcgaa aggttttgcg ccattcgatg
+     3241 gtgtcaacgt aaatgcatgc cgcttcgcct tccggccacc agaatagcct gcgattcaac
+     3301 cccttcttcg atctgttttg ctacccgttg tagcgccgga agatgctttt ccgctgcctg
+     3361 ttcaatggtc attgcgctcg ccatatacac cagattcaga cagccaatca cccgttgttc
+     3421 actgcgcagc ggtacggcga tagaggcgat cttctcctcc tgatcccagc cgcggtagtt
+     3481 ctgtccgtaa ccctctttgc gcgcgcgcgc cagaatggct tccagcttta acggttcccg
+     3541 tgccagttga tagtcatcac cggggcggga ggctaacatt tcgattaatt ccttgcggtc
+     3601 ttgttccggg caaaaggcca gccaggtcag gcccgaggcg gttttcagaa gcggcaaacg
+     3661 tcgcccgacc attgcccggt gaaaggataa gcggctgaaa cggtgagtgg tttcgcgtac
+     3721 caccattgca tcaacatcca gcgtggacac atctgtcggc cataccactt cgcgcaacag
+     3781 atcgcccagc agtggggccg ccagtgcaga aatccactgt tcgtcacgaa atccttcgct
+     3841 taattgccgc actttgatgg tcagtcgaaa actatcatcg gaggggctac ggcggacata
+     3901 tccctcttcc tgcagcgtct ccagcagtcg ccgcacagtg gtgcgatgca ggccgctgag
+     3961 ttccgccagc agcccgacgc tggcaccgcc atcaagttta t
+//
+

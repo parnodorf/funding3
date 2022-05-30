@@ -1,0 +1,1 @@
+known从赵老师给的序列中扣除ppiD，ldtC (ycfS)。

@@ -1,0 +1,235 @@
+LOCUS       CP001509                4001 bp    DNA     linear   BCT 16-FEB-2017
+DEFINITION  Escherichia coli BL21(DE3), complete genome.
+ACCESSION   CP001509 REGION: 1139897..1143897
+VERSION     CP001509.3  GI:296142109
+DBLINK      BioProject: PRJNA20713
+            BioSample: SAMN02603478
+KEYWORDS    .
+SOURCE      Escherichia coli BL21(DE3)
+  ORGANISM  Escherichia coli BL21(DE3)
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Barbe,V., Lee,C.H., Vallenet,D., Yu,D.S., Choi,S.H.,
+            Couloux,A., Lee,S.W., Yoon,S.H., Cattolico,L., Hur,C.G., Park,H.S.,
+            Segurens,B., Kim,S.C., Oh,T.K., Lenski,R.E., Studier,F.W.,
+            Daegelen,P. and Kim,J.F.
+  TITLE     Genome sequences of Escherichia coli B strains REL606 and BL21(DE3)
+  JOURNAL   J. Mol. Biol. 394 (4), 644-652 (2009)
+   PUBMED   19786035
+REFERENCE   2  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+REFERENCE   3  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JAN-2017) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Protein update by submitter
+COMMENT     On May 17, 2010 this sequence version replaced CP001509.2.
+            Bacteria available from F. William Studier (studier@bnl.gov).
+FEATURES             Location/Qualifiers
+     source          1..4001
+                     /organism="Escherichia coli BL21(DE3)"
+                     /mol_type="genomic DNA"
+                     /strain="BL21(DE3)"
+                     /db_xref="taxon:469008"
+     gene            <1..42
+                     /gene="flgI"
+                     /locus_tag="ECD_01076"
+     CDS             <1..42
+                     /gene="flgI"
+                     /locus_tag="ECD_01076"
+                     /note="similar to b1080"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative flagellar basal body protein"
+                     /protein_id="ACT42971.1"
+                     /db_xref="GI:253977301"
+                     /translation="MIKFLSALILLLVTTAAQAERIRDLTSVQGVRQNSLIGYGLVVG
+                     LDGTGDQTTQTPFTTQTLNNMLSQLGITVPTGTNMQLKNVAAVMVTASLPPFGRQGQT
+                     IDVVVSSMGNAKSLRGGTLLMTPLKGVDSQVYALAQGNILVGGAGASAGGSSVQVNQL
+                     NGGRITNGAVIERELPSQFGVGNTLNLQLNDEDFSMAQQIADTINRVRGYGSATALDA
+                     RTIQVRVPSGNSSQVRFLADIQNMQVNVTPQDAKVVINSRTGSVVMNREVTLDSCAVA
+                     QGNLSVTVNRQANVSQPDTPFGGGQTVVTPQTQIDLRQSGGSLQSVRSSASLNNVVRA
+                     LNALGATPMDLMSILQSMQSAGCLRAKLEII"
+     gene            42..983
+                     /gene="flgJ"
+                     /locus_tag="ECD_01077"
+     CDS             42..983
+                     /gene="flgJ"
+                     /locus_tag="ECD_01077"
+                     /note="similar to b1081"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="flagellar rod assembly protein and murein
+                     hydrolase; flagellum-specific muramidase"
+                     /protein_id="ACT42972.1"
+                     /db_xref="GI:253977302"
+                     /translation="MISDSKLLASAAWDAQSLNELKAKAGEDPAANIRPVARQVEGMF
+                     VQMMLKSMRDALPKDGLFSSEHTRLYTSMYDQQIAQQMTAGKGLGLAEMMVKQMTPEQ
+                     PLPEESTPAAPMKFPLETVVRYQNQALSQLVQKAVPRNYDDSLPGDSKAFLAQLSLPA
+                     QLASQQSGVPHHLILAQAALESGWGQRQIRRENGEPSYNLFGVKASGNWKGPVTEITT
+                     TEYENGEAKKVKAKFRVYSSYLEALSDYVGLLTRNPRYAAVTTAASAEQGAQALQDAG
+                     YATDPHYARKLTNMIQQMKSISDKVSKTYSMNIDNLF"
+     gene            1049..2692
+                     /gene="flgK"
+                     /locus_tag="ECD_01078"
+     CDS             1049..2692
+                     /gene="flgK"
+                     /locus_tag="ECD_01078"
+                     /note="similar to b1082"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="flagellar hook-filament junction protein 1"
+                     /protein_id="ACT42973.1"
+                     /db_xref="GI:253977303"
+                     /translation="MSSLINNAMSGLNAAQAALNTASNNISSYNVAGYTRQTTIMAQA
+                     NSTLGAGGWVGNGVYVSGVQREYDAFITNQLRAAQTQSSGLTARYEQMSKIDNMLSTS
+                     TSSLATQMQDFFTSLQTLVSNAEDPAARQALIGKSEGLVNQFKTTDQYLRDQDKQVNI
+                     AIGASVDQINNYAKQIASLNDQISRLTGVGAGASPNNLLDQRDQLVSELNQIVGVEVS
+                     VQDGGTYNITMANGYSLVQGSTARQLAAVPSSADPSRTTVAYVDGTAGNIEIPEKLLN
+                     TGSLGGILTFRSQDLDQTRNTLGQLALAFAEAFNTQHKAGFDANGDAGEDFFAIGKPA
+                     VLQNTKNKGDVAIGATVTDASAVLATDYKISFDNNQWQVTRLASNTTFTVTPDANGKV
+                     AFDGLELTFTGTPAVNDSFTLKPVSDAIVNMDVLITDEAKIAMASEEDAGDSDNRNGQ
+                     ALLDLQSNSKTVGGAKSFNDAYASLVSDIGNKTATLKTSSTTQGNVVTQLSNQQQSIS
+                     GVNLDEEYGNLQRFQQYYLANAQVLQTANAIFDALINIR"
+     gene            2704..3657
+                     /gene="flgL"
+                     /locus_tag="ECD_01079"
+     CDS             2704..3657
+                     /gene="flgL"
+                     /locus_tag="ECD_01079"
+                     /note="similar to b1083"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="flagellar hook-filament junction protein"
+                     /protein_id="ACT42974.1"
+                     /db_xref="GI:253977304"
+                     /translation="MRFSTQMMYQQNMRGITNSQAEWMKYGEQMSTGKRVVNPSDDPI
+                     AASQAVVLSQAQAQNSQYTLARTFATQKVSLEESVLSQVTTAIQNAQEKIVYASNGTL
+                     SDDDRASLATDIQGLRDQLLNLANTTDGNGRYIFAGYKTETAPFSEANGDYVGGTESI
+                     KQQVDASRSMVIGHTGDKIFDSITSNAVAEPDGSASETNLFAMLDSAIAALKTPVADS
+                     EADKETAAAALDKTNRGLKNSLNNVLTVRAELGTQLNELESLDSLGSDRALGQTQQMS
+                     DLVDVDWNATISSYIMQQTALQASYKAFTDMQGLSLFQLNK"
+     gene            complement(3853..>4001)
+                     /gene="rne"
+                     /locus_tag="ECD_01080"
+     CDS             complement(3853..>4001)
+                     /gene="rne"
+                     /locus_tag="ECD_01080"
+                     /EC_number="3.1.4.-"
+                     /note="similar to b1084"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="endoribonuclease; RNA-binding protein;RNA
+                     degradosome binding protein"
+                     /protein_id="ACT42975.1"
+                     /db_xref="GI:253977305"
+                     /translation="MKRMLINATQQEELRVALVDGQRLYDLDIESPGHEQKKANIYKG
+                     KITRIEPSLEAAFVDYGAERHGFLPLKEIAREYFPANYSAHGRPNIKDVLREGQEVIV
+                     QIDKEERGNKGAALTTFISLAGSYLVLMPNNPRAGGISRRIEGDDRTELKEALASLEL
+                     PEGMGLIVRTAGVGKSAEALQWDLSFRLKHWEAIKKAAESRPAPFLIHQESNVIVRAF
+                     RDYLRQDIGEILIDNPKVLELARQHIAALGRPDFSSKIKLYTGEIPLFSHYQIESQIE
+                     SAFQREVRLPSGGSIVIDSTEALTAIDINSARATRGGDIEETAFNTNLEAADEIARQL
+                     RLRDLGGLIVIDFIDMTPVRHQRAVENRLREAVRQDRARIQISHISRFGLLEMSRQRL
+                     SPSLGESSHHVCPRCSGTGTVRDNESLSLSILRLIEEEALKENTQEVHAIVPVPIASY
+                     LLNEKRSAVNAIETRQDGVRCVIVPNDQMETPHYHVLRVRKGEETPTLSYMLPKLHEE
+                     AMALPSEEEFAERKRPEQPALATFAMPDVPPAPTPAEPAAPVVAPAPKSAPATPAAPA
+                     QPGLLSRFFGALKALFSGGEETKPSEQPTPKAEAKPERQQDRRKPRQNNRRDRNERRD
+                     TRSERTEGSDNREENRRNRRQAQQQTAETRESRQQVEVTEKARTTDEQQAPRRERSRR
+                     RNDDKRQAQQEAKALNVEEQSVQETEQEERVRPVQPRRKQRQLNQKVRYEQSVAEEAV
+                     VAPVVEETVAAEPIVQEAPAPRTELVKVPLPVVAQTAPEQQEENNADNRDNGGMPRRS
+                     RRSPRHLRVSGQRRRRYRDERYPTQSPMPLTVACASPELASGKVWIRYPIVRPQDVQV
+                     EEQREQEEVHVQPMVTEVPVAAAIEPVVSAPVVEEVAGVVEAPVQVAEPQPEVVETTH
+                     PEVIAAAVTEQPQVITESDVAVAQEVAEQAEPVVEPQEETADIEEVVETAEVVVAEPE
+                     VVAQPAAPVVAEVAAEVETVAAVEPEVTVEHNHATAPMTRAPAPEYVPEAPRHSDWQR
+                     PTFAFEGKGAAGGHTATHHASAAPARPQPVE"
+ORIGIN      
+        1 caaagtgcgg gatgtctgcg ggcaaaactg gaaatcatct gatgatcagc gacagcaaac
+       61 tactggcaag tgcggcctgg gatgcgcaat cactcaacga actaaaggcg aaagcgggcg
+      121 aagatccggc ggcaaatatc cgtccggtgg cccgtcaggt ggaagggatg ttcgtgcaga
+      181 tgatgttgaa aagcatgcgc gacgctttac caaaagatgg cctgttcagc agcgagcaca
+      241 ctcgcctgta taccagtatg tatgaccagc agattgccca acagatgacg gcgggcaaag
+      301 gtctggggct tgcagagatg atggttaaac agatgacgcc agaacaacca ttgccagagg
+      361 agtccacgcc agcagcaccg atgaaattcc cgctcgaaac tgtggtgcgt tatcaaaatc
+      421 aggcgctttc gcagctggtg caaaaggccg tgccacgtaa ctacgatgat tcgctgccgg
+      481 gtgacagtaa agcattcctc gcgcaactct cgctgcccgc ccaactggca agccagcaaa
+      541 gcggtgtgcc acatcatttg atcctcgctc aggcggcact ggaatctggt tgggggcaac
+      601 ggcaaatccg ccgcgaaaac ggcgagccga gctataacct gtttggtgtc aaagcctctg
+      661 gcaactggaa agggccagtt actgaaatca ccacgactga atatgaaaac ggcgaagcga
+      721 agaaagtaaa agcgaagttt cgcgtctaca gctcgtatct ggaagccttg tcggattacg
+      781 ttgggctgtt aacgcgtaac ccgcgctacg ccgccgtgac gaccgccgcg agtgcggaac
+      841 agggggcgca ggccctacag gacgcgggct atgccaccga tcctcactat gcccgcaaac
+      901 tcaccaacat gattcagcag atgaaatcga taagcgacaa ggtgagcaaa acctacagta
+      961 tgaacattga taatctgttc tgaataactc aagtccggcg ggtcgctgcc gataatactc
+     1021 tgtaattgaa ggcttataag gaacctccat gtccagcttg attaataacg ccatgagcgg
+     1081 actgaacgcg gcccaggcgg cgttaaatac ggcaagtaat aatatctcca gctataacgt
+     1141 tgccggatat acccgccaaa ccactattat ggcgcaggcc aatagcacgt tgggcgctgg
+     1201 cggctgggtt ggcaatggtg tctacgtttc tggtgtgcag cgtgagtatg atgcgtttat
+     1261 taccaaccag ttacgtgcgg cgcagacgca aagtagcggt ctgactgccc gctatgagca
+     1321 gatgtcgaaa atcgacaata tgctctccac cagtacctct tcgctggcaa cacagatgca
+     1381 ggatttcttc accagcctgc aaacgctggt gagtaacgcg gaagacccgg cagcgcgcca
+     1441 ggcgctgatt gggaaatcag aaggattggt gaatcagttt aaaaccaccg atcaatatct
+     1501 gcgcgaccag gacaaacagg tcaatatcgc gataggtgcc agcgttgatc agatcaacaa
+     1561 ctacgctaaa caaattgcca gcctgaacga tcaaatctcg cgcctgacag gcgtgggggc
+     1621 aggggcgtca cctaacaatc tgctggatca acgcgatcaa ctggtgagcg aattaaacca
+     1681 gattgttggt gtagaagtca gcgttcagga tggcggcact tataacatca cgatggccaa
+     1741 tggttactca ctggttcagg gaagtacggc gcggcaactg gcggcagttc cttccagcgc
+     1801 tgacccttct cgtacgactg tcgcttatgt tgatgggacg gcaggcaata ttgagatccc
+     1861 ggagaaatta ctgaataccg ggtcgctggg cggcattctg acattccgtt ctcaggatct
+     1921 ggaccagacg cgtaatacgc ttggacaact ggcgctggca tttgccgagg ctttcaacac
+     1981 ccaacacaaa gccggatttg atgctaacgg cgatgccggt gaagatttct ttgctatcgg
+     2041 taagcccgcg gttctgcaaa acacgaaaaa caaaggtgac gttgcgatcg gtgccacggt
+     2101 aactgatgcc tccgcggtac tggcgacaga ttacaaaatc tcgttcgata ataatcagtg
+     2161 gcaggtcacc cgccttgcca gcaataccac ttttacggtg acgccggatg ccaacggtaa
+     2221 agtggcattt gatggtctgg agttgacgtt tacaggaacg cctgccgtta acgacagctt
+     2281 cacgctgaaa ccagtaagtg acgccatcgt caacatggat gtattaatca ccgacgaagc
+     2341 gaaaatcgcg atggcgagcg aagaagatgc gggtgatagc gacaaccgca acggtcaggc
+     2401 cctgctggat ctgcaaagca acagtaaaac ggtgggcggt gcgaaatcct ttaacgacgc
+     2461 ttatgcctcg ttagtgagtg atatcggtaa taaaaccgcg acgttgaaaa ccagtagcac
+     2521 cacgcaaggt aatgtggtga cgcagctttc caatcagcag cagtcgattt ccggtgtcaa
+     2581 tctcgatgag gagtacggaa atctgcaacg ttttcagcag tattacctgg cgaatgcgca
+     2641 ggttctgcag acggcaaacg cgatttttga tgcgctgatt aacattcgct aaggggagat
+     2701 aagatgcgtt tcagtaccca gatgatgtac cagcaaaaca tgcgtggcat caccaattct
+     2761 caggcagaat ggatgaagta cggcgagcag atgtcgacag gtaagcgagt cgttaaccct
+     2821 tctgacgatc ccattgcagc atcacaagcc gtagttctct cccaggcaca ggcgcaaaac
+     2881 agccagtaca cgctggcacg tactttcgcc actcaaaaag tgtcactgga agagagtgta
+     2941 cttagccagg tcaccactgc tatccagaat gctcaggaaa aaattgtcta cgccagcaat
+     3001 ggcaccttga gtgacgatga ccgggcctcg ctggctacgg atattcaggg gcttcgtgac
+     3061 cagttgctga atctggcgaa caccactgac ggtaacgggc gttacatttt tgccggttat
+     3121 aaaacagaaa ctgcgccgtt tagtgaggct aacggtgatt atgtcggcgg aacagaaagt
+     3181 attaagcaac aggtcgatgc ttcgcgttcg atggtgatag ggcacacggg tgacaaaatt
+     3241 ttcgacagta ttaccagcaa cgcggtagcg gaaccagacg gtagcgcttc tgaaaccaat
+     3301 ctttttgcca tgctggatag tgccatcgca gccctgaaaa cgccggtcgc ggatagcgaa
+     3361 gcggataaag aaaccgccgc tgcggcgtta gataaaacca accgcggact gaaaaactcg
+     3421 ctgaacaatg tgctgactgt tcgcgcggaa ttaggcacgc agctgaacga actggagtcg
+     3481 ctggattcat taggtagcga tcgcgcttta gggcaaacgc agcagatgag cgatctggtt
+     3541 gatgtggatt ggaatgcaac tatttcatct tacatcatgc agcaaacggc attgcaggca
+     3601 tcgtataaag catttaccga tatgcaggga ttgtcgctct tccagctcaa caaataattt
+     3661 cgctttaaaa catatcatga aactgggtat gttttgtctg cctgctctgg gatcgctggg
+     3721 gcgggcattt ttttgcctat tttgcattgt tggttagcaa ggatgccatt cgatgaattt
+     3781 taatatgttg attcaaagat gaaataaaaa agccctggca gttaccaggg cttgattact
+     3841 ttgagctaat tattactcaa caggttgcgg acgcgcagga gcagcagagg catgatgtgt
+     3901 tgccgtatga ccacctgcgg cacctttacc ttcgaaggca aaagtagggc gctgccagtc
+     3961 actgtgacgc ggtgcctccg gaacatattc cggtgctgga g
+//
+

@@ -1,0 +1,20 @@
+帮张佳写的程序
+
+
+CCACTTGAGGTAAATCTCTTTCCAGCATCTCTTCCTA这个序列，前面7个是N，后面的是spacer
+
+
+CCACTTG    AGGTAAATCTCTTTCCAGCATCTCTTCCTA
+
+
+
+up=
+caggctgcgcaactgttgggaagggcgatcggtgcgggcctcttcgctattacgccagctggcgaaagggggatgtgctgcaaggcgattaagttgggtaacgccagggttttcccagtcacgacgttgtaaaacgacggccagtgaatt
+
+down=
+aggtaaatctctttccagcatctcttcctactagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccag
+
+
+
+CGAGCTCGGTACCC	没有NNNNNNN
+CGAGCTCGGTACCCGGGGATCCTCTAGAG 空载

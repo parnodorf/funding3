@@ -1,0 +1,205 @@
+LOCUS       CP001509                4001 bp    DNA     linear   BCT 16-FEB-2017
+DEFINITION  Escherichia coli BL21(DE3), complete genome.
+ACCESSION   CP001509 REGION: 423720..427720
+VERSION     CP001509.3  GI:296142109
+DBLINK      BioProject: PRJNA20713
+            BioSample: SAMN02603478
+KEYWORDS    .
+SOURCE      Escherichia coli BL21(DE3)
+  ORGANISM  Escherichia coli BL21(DE3)
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Barbe,V., Lee,C.H., Vallenet,D., Yu,D.S., Choi,S.H.,
+            Couloux,A., Lee,S.W., Yoon,S.H., Cattolico,L., Hur,C.G., Park,H.S.,
+            Segurens,B., Kim,S.C., Oh,T.K., Lenski,R.E., Studier,F.W.,
+            Daegelen,P. and Kim,J.F.
+  TITLE     Genome sequences of Escherichia coli B strains REL606 and BL21(DE3)
+  JOURNAL   J. Mol. Biol. 394 (4), 644-652 (2009)
+   PUBMED   19786035
+REFERENCE   2  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+REFERENCE   3  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JAN-2017) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Protein update by submitter
+COMMENT     On May 17, 2010 this sequence version replaced CP001509.2.
+            Bacteria available from F. William Studier (studier@bnl.gov).
+FEATURES             Location/Qualifiers
+     source          1..4001
+                     /organism="Escherichia coli BL21(DE3)"
+                     /mol_type="genomic DNA"
+                     /strain="BL21(DE3)"
+                     /db_xref="taxon:469008"
+     gene            <1..396
+                     /gene="tig"
+                     /locus_tag="ECD_00387"
+     CDS             <1..396
+                     /gene="tig"
+                     /locus_tag="ECD_00387"
+                     /note="similar to b0436"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="peptidyl-prolyl cis/trans isomerase (trigger
+                     factor)"
+                     /protein_id="ACT42286.1"
+                     /db_xref="GI:253976616"
+                     /translation="MQVSVETTQGLGRRVTITIAADSIETAVKSELVNVAKKVRIDGF
+                     RKGKVPMNIVAQRYGASVRQDVLGDLMSRNFIDAIIKEKINPAGAPTYVPGEYKLGED
+                     FTYSVEFEVYPEVELQGLEAIEVEKPIVEVTDADVDGMLDTLRKQQATWKEKDGAVEA
+                     EDRVTIDFTGSVDGEEFEGGKASDFVLAMGQGRMIPGFEDGIKGHKAGEEFTIDVTFP
+                     EEYHAENLKGKAAKFAINLKKVEERELPELTAEFIKRFGVEDGSVEGLRAEVRKNMER
+                     ELKSAIRNRVKSQAIEGLVKANDIDVPAALIDSEIDVLRRQAAQRFGGNEKQALELPR
+                     ELFEEQAKRRVVVGLLLGEVIRTNELKADEERVKGLIEEMASAYEDPKEVIEFYSKNK
+                     ELMDNMRNVALEEQAVEAVLAKAKVTEKETTFNELMNQQA"
+     gene            642..1265
+                     /gene="clpP"
+                     /locus_tag="ECD_00388"
+     CDS             642..1265
+                     /gene="clpP"
+                     /locus_tag="ECD_00388"
+                     /EC_number="3.4.21.-"
+                     /note="similar to b0437"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="proteolytic subunit of ClpA-ClpP and ClpX-ClpP
+                     ATP-dependent serine proteases"
+                     /protein_id="ACT42287.1"
+                     /db_xref="GI:253976617"
+                     /translation="MSYSGERDNFAPHMALVPMVIEQTSRGERSFDIYSRLLKERVIF
+                     LTGQVEDHMANLIVAQMLFLEAENPEKDIYLYINSPGGVITAGMSIYDTMQFIKPDVS
+                     TICMGQAASMGAFLLTAGAKGKRFCLPNSRVMIHQPLGGYQGQATDIEIHAREILKVK
+                     GRMNELMALHTGQSLEQIERDTERDRFLSAPEAVEYGLVDSILTHRN"
+     gene            1391..2665
+                     /gene="clpX"
+                     /locus_tag="ECD_00389"
+     CDS             1391..2665
+                     /gene="clpX"
+                     /locus_tag="ECD_00389"
+                     /note="similar to b0438"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ATPase and specificity subunit of ClpX-ClpP
+                     ATP-dependent serine protease"
+                     /protein_id="ACT42288.1"
+                     /db_xref="GI:253976618"
+                     /translation="MTDKRKDGSGKLLYCSFCGKSQHEVRKLIAGPSVYICDECVDLC
+                     NDIIREEIKEVAPHRERSALPTPHEIRNHLDDYVIGQEQAKKVLAVAVYNHYKRLRNG
+                     DTSNGVELGKSNILLIGPTGSGKTLLAETLARLLDVPFTMADATTLTEAGYVGEDVEN
+                     IIQKLLQKCDYDVQKAQRGIVYIDEIDKISRKSDNPSITRDVSGEGVQQALLKLIEGT
+                     VAAVPPQGGRKHPQQEFLQVDTSKILFICGGAFAGLDKVISHRVETGSGIGFGATVKA
+                     KSDKASEGELLAQVEPEDLIKFGLIPEFIGRLPVVATLNELSEEALIQILKEPKNALT
+                     KQYQALFNLEGVDLEFRDEALDAIAKKAMARKTGARGLRSIVEAALLDTMYDLPSMED
+                     VEKVVIDESVIDGQSKPLLIYGKPEAQQASGE"
+     mobile_element  complement(2762..>4001)
+                     /mobile_element_type="insertion sequence:IS186"
+     gene            complement(2935..>4001)
+                     /gene="insL-2"
+                     /locus_tag="ECD_00390"
+     CDS             complement(2935..>4001)
+                     /gene="insL-2"
+                     /locus_tag="ECD_00390"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="putative transposase insL for insertion sequence
+                     IS186"
+                     /protein_id="ACT42289.1"
+                     /db_xref="GI:253976619"
+                     /translation="MNYSHDNWSAILAHIGKPEELDTSARNAGALTRRREIRDAATLL
+                     RLGLAYGPGGMSLREVTAWAQLHDVATLSDVALLKRLRNAADWFGILAAQTLAVRAAV
+                     TGCTSGKRLRLVDGTAISAPGGGSAEWRLHMGYDPHTCQFTDFELTDSRDAERLDRFA
+                     QTADEIRIADRGFGSRPECIRSLAFGEADYIVRVHWRGLRWLTAEGMRFDMMGFLRGL
+                     DCGKNGETTVMIGNSGNKKAGAPFPARLIAVSLPPEKALISKTRLLSENRRKGRVVQA
+                     ETLEAAGHVLLLTSLPEDEYSAEQVADCYRLRWQIELAFKRLKSLLHLDALRAKEPEL
+                     AKAWIFANLLAAFLIDDIIQPSLDFPPRSAGSEKKN"
+ORIGIN      
+        1 gtaccggctg cgctgatcga cagcgaaatc gacgttctgc gtcgccaggc tgcacagcgt
+       61 ttcggtggca acgaaaaaca agctctggaa ctgccgcgcg aactgttcga agaacaggct
+      121 aaacgccgcg tagttgttgg cctgctgctg ggcgaagtta tccgcaccaa cgagctgaaa
+      181 gctgacgaag agcgcgtgaa aggcctgatc gaagagatgg cttctgcgta cgaagatccg
+      241 aaagaagtta tcgagttcta cagcaaaaac aaagaactga tggacaacat gcgcaatgtt
+      301 gctctggaag aacaggctgt tgaagctgta ctggcgaaag cgaaagtgac tgaaaaagaa
+      361 accactttca acgagctgat gaaccagcag gcgtaattta cgcagcataa cgcgctaaat
+      421 tcgcacaaag gcccgtcacc gccaggtggt gggctttttt ttgtcatgaa ttttgcatgg
+      481 aaccgtgcga aaagcctctt tcggtgttag cgtaacaaca aaagattgtt atgcttgaaa
+      541 tatggtgatg ccgtacccat aacacaggga ctagctgata atccgtccat aaggttacaa
+      601 tcggtacagc aggttttttc aattttatcc aggagacgga aatgtcatac agcggcgaac
+      661 gagataactt tgcaccccat atggcgctgg tgccgatggt cattgaacag acctcacgcg
+      721 gtgagcgctc ttttgatatc tattctcgtc tacttaagga acgcgtcatt tttctgactg
+      781 gccaggttga agaccacatg gctaacctga ttgtggcgca gatgctgttc ctggaagcgg
+      841 aaaacccaga aaaagatatc tatctgtaca ttaactcccc aggcggggtg atcactgccg
+      901 ggatgtctat ctatgacacc atgcagttta tcaagcctga tgtcagcacc atctgtatgg
+      961 gccaggcggc ctcgatgggc gctttcttgc tgaccgcagg ggcaaaaggt aaacgttttt
+     1021 gcctgccgaa ttcgcgcgtg atgattcacc aaccattggg cggctaccag ggccaggcga
+     1081 ccgatatcga aattcatgcc cgtgaaattc tgaaagttaa agggcgcatg aatgaactta
+     1141 tggcgcttca tacgggtcaa tcattagaac agattgaacg tgataccgag cgcgatcgct
+     1201 tcctttccgc ccctgaagcg gtggaatacg gtctggtcga ttcgattctg acccatcgta
+     1261 attgatgcca gaggcgcaac tgtgccgcta tacttatcca gggcggcaca acgctgtaag
+     1321 cggcttgcgc ctgagaatgg catttgcgtc gtcgtgtgcg gcacaaagaa caaagaagag
+     1381 gttttgaccc atgacagata aacgcaaaga tggctcaggc aaattgctgt attgctcttt
+     1441 ttgcggcaaa agccagcatg aagtgcgcaa gctgattgcc ggtccatccg tgtatatctg
+     1501 cgacgaatgt gttgatttat gtaacgacat cattcgcgaa gagattaaag aagttgcacc
+     1561 gcatcgtgaa cgcagtgcgc taccgacgcc gcatgaaatt cgcaaccacc tggacgatta
+     1621 cgttatcggc caggaacagg cgaaaaaagt gctggcggtc gcggtataca accattacaa
+     1681 acgtctgcgc aacggcgata ccagcaatgg cgtcgagttg ggcaaaagta acattctgct
+     1741 gatcggtccg accggttccg gtaaaacgct gctggctgaa acgctggcgc gcctgctgga
+     1801 tgttccgttc accatggccg acgcgactac actgaccgaa gccggttatg tgggtgaaga
+     1861 cgttgaaaac atcattcaga agctgttgca gaaatgcgac tacgatgtcc agaaagcaca
+     1921 gcgtggtatt gtctacatcg atgaaatcga caagatttct cgtaagtcag acaacccgtc
+     1981 cattacccga gacgtttccg gtgaaggcgt acagcaggca ctgttgaaac tgatcgaagg
+     2041 tacggtagct gctgttccac cgcaaggtgg gcgtaaacat ccgcagcagg aattcttgca
+     2101 ggttgatacc tctaagatcc tgtttatttg tggcggtgcg tttgccggtc tggataaagt
+     2161 gatttcccac cgtgtagaaa ccggctccgg cattggtttt ggcgcgacgg taaaagcgaa
+     2221 gtccgacaaa gcaagcgaag gcgagctgct ggcgcaggtt gaaccggaag atctgatcaa
+     2281 gtttggtctt atccctgagt ttattggtcg tctgccggtt gtcgcaacgt tgaatgaact
+     2341 gagcgaagaa gctctgattc agatcctcaa agagccgaaa aacgccctga ccaagcagta
+     2401 tcaggcgctg tttaatctgg aaggcgtgga tctggaattc cgtgacgagg cgctggatgc
+     2461 tatcgctaag aaagcgatgg cgcgtaaaac cggtgcccgt ggcctgcgtt ccatcgtaga
+     2521 agccgcactg ctcgatacca tgtacgatct gccgtccatg gaagacgtcg aaaaagtggt
+     2581 tatcgacgag tcggtaattg atggtcaaag caaaccgttg ctgatttatg gcaagccgga
+     2641 agcgcaacag gcatctggtg aataattaac cattcccata caattagtta accaaaaagg
+     2701 ggggatttta tctccccttt aatttttcct ctattctcgg cgttgaatgt gggggaaaca
+     2761 tcccataagc gctaacttaa gggttgaacc atctgaagaa tgcgacgcct cggtgcctcg
+     2821 ttaagacgat gcctcgcgtt cttcaattgc gttttgtagg ctgtcaggga tactgtccca
+     2881 cgaatggcca cctgtaagct ccagatgacc atttttgtta ttctccacaa cgagttagtt
+     2941 cttcttttcg gatccggcac ttctgggggg gaaatccagc gatggctgga ttatgtcgtc
+     3001 aattaaaaat gcggcgagta gattagcaaa tatccacgct ttcgcgagtt caggttcctt
+     3061 tgcacgcaaa gcatccaggt gcagcaaact tttgagccgc ttaaaagcca gttcaatttg
+     3121 ccatcgcaga cggtaacaat cagccacttg ctctgctgaa tattcatctt ccggtaatga
+     3181 tgttagcaat agcacatggc ccgctgcttc cagcgtttcc gcctgaacta ctcgtccttt
+     3241 tcgacgattc tcgctgagca gtcgggtttt actgattaat gctttttcgg gaggaagtga
+     3301 tacggcaatg agacgtgccg gaaagggagc tccggctttt ttattacctg aattgcctat
+     3361 cattacagtg gtttcaccgt tcttaccgca atccagcccg cgcagaaaac ccatcatgtc
+     3421 aaagcgcatt ccttctgcag ttaaccagcg caatcctcgc cagtgaaccc ggacgatata
+     3481 atcagcttct ccaaaagcaa gtgagcggat acattcggga cgcgaaccga atccccggtc
+     3541 agcaatgcgt atctcgtctg ccgtttgcgc aaatcggtcc agccgttcag cgtctctgct
+     3601 gtcggttagc tcaaaatcag tgaactgaca ggtatgagga tcatatccca tatgtagtcg
+     3661 ccattcagcg ctgccgcccc cgggcgcact gattgctgtt ccatcgacaa gacgcaatct
+     3721 ctttccgctt gtacaacccg taactgcggc gcgtacagca agtgtttgtg cggcaagtat
+     3781 gccaaaccag tcggcggcat tccgcagccg cttcaggaga gccacgtcag ataatgttgc
+     3841 aacgtcatgg agctgagccc atgcagtgac ttcacgtaat gacatccccc cggggccgta
+     3901 agccagcccc agacgtagca gagttgcagc atcacgaatt tcgcggcggc gggttagagc
+     3961 cccggcatta cgtgccgaag tatccagttc ttcgggctta c
+//
+

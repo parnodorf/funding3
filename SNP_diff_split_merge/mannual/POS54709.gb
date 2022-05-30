@@ -1,0 +1,236 @@
+LOCUS       CP001509                4001 bp    DNA     linear   BCT 16-FEB-2017
+DEFINITION  Escherichia coli BL21(DE3), complete genome.
+ACCESSION   CP001509 REGION: 52709..56709
+VERSION     CP001509.3  GI:296142109
+DBLINK      BioProject: PRJNA20713
+            BioSample: SAMN02603478
+KEYWORDS    .
+SOURCE      Escherichia coli BL21(DE3)
+  ORGANISM  Escherichia coli BL21(DE3)
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Barbe,V., Lee,C.H., Vallenet,D., Yu,D.S., Choi,S.H.,
+            Couloux,A., Lee,S.W., Yoon,S.H., Cattolico,L., Hur,C.G., Park,H.S.,
+            Segurens,B., Kim,S.C., Oh,T.K., Lenski,R.E., Studier,F.W.,
+            Daegelen,P. and Kim,J.F.
+  TITLE     Genome sequences of Escherichia coli B strains REL606 and BL21(DE3)
+  JOURNAL   J. Mol. Biol. 394 (4), 644-652 (2009)
+   PUBMED   19786035
+REFERENCE   2  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+REFERENCE   3  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JAN-2017) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Protein update by submitter
+COMMENT     On May 17, 2010 this sequence version replaced CP001509.2.
+            Bacteria available from F. William Studier (studier@bnl.gov).
+FEATURES             Location/Qualifiers
+     source          1..4001
+                     /organism="Escherichia coli BL21(DE3)"
+                     /mol_type="genomic DNA"
+                     /strain="BL21(DE3)"
+                     /db_xref="taxon:469008"
+     gene            <1..1119
+                     /gene="kefC"
+                     /locus_tag="ECD_00051"
+     CDS             <1..1119
+                     /gene="kefC"
+                     /locus_tag="ECD_00051"
+                     /note="similar to b0047"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="potassium:proton antiporter"
+                     /protein_id="ACT41952.1"
+                     /db_xref="GI:253976282"
+                     /translation="MDSHTLIQALIYLGSAALIVPIAVRLGLGSVLGYLIAGCIIGPW
+                     GLRLVTDAESILHFAEIGVVLMLFIIGLELDPQRLWKLRAAVFGGGALQMVICGGLLG
+                     LFCMLLGLRWQVAELIGMTLALSSTAIAMQAMNERNLMVTQMGRSAFAVLLFQDIAAI
+                     PLVAMIPLLATSSASTTMGAFALSALKVAGALVLVVLLGRYVTRPALRFVARSGLREV
+                     FSAVALFLVFGFGLLLEEVGLSMAMGAFLAGVLLASSEYRHALESDIEPFKGLLLGLF
+                     FIGVGMSIDFGTLLENPLRIVILLLGFLIIKIAMLWLIARPLQVPNKQRRWFAVLLGQ
+                     GSEFAFVVFGAAQMANVLEPEWAKSLTLAVALSMAATPILLVILNRLEQSSTEEAREA
+                     DEIDEEQPRVIIAGFGRFGQITGRLLLSSGVKMVVLDHDPDHIETLRKFGMKVFYGDA
+                     TRMDLLESAGAAKAEVLINAIDDPQTNLQLTEMVKEHFPHLQIIARARDVDHYIRLRQ
+                     AGVEKPERETFEGALKTGRLALESLGLGPYEARERADVFRRFNIQMVEEMAMVENDTK
+                     ARAAVYKRTSAMLSEIITEDREHLSLIQRHGWQGTEEGKHTGNMADEPETKPSS"
+     gene            1311..1790
+                     /gene="folA"
+                     /locus_tag="ECD_00052"
+     CDS             1311..1790
+                     /gene="folA"
+                     /locus_tag="ECD_00052"
+                     /EC_number="1.5.1.3"
+                     /note="similar to b0048"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dihydrofolate reductase"
+                     /protein_id="ACT41953.1"
+                     /db_xref="GI:253976283"
+                     /translation="MISLIAALAVDRVIGMENAMPWNLPADLAWFKRNTLNKPVIMGR
+                     HTWESIGRPLPGRKNIILSSQPGTDDRVTWVKSVDEAIAACGDVPEIMVIGGGRVYEQ
+                     FLPKAQKLYLTHIDAEVEGDTHFPDYEPDDWESVFSEFHDADAQNSHSYCFEILERR"
+     gene            complement(1868..2710)
+                     /gene="apaH"
+                     /locus_tag="ECD_00053"
+     CDS             complement(1868..2710)
+                     /gene="apaH"
+                     /locus_tag="ECD_00053"
+                     /EC_number="3.6.1.41"
+                     /note="similar to b0049"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="diadenosine tetraphosphatase"
+                     /protein_id="ACT41954.1"
+                     /db_xref="GI:253976284"
+                     /translation="MATYLIGDVHGCYDELIALLHKVEFTPGKDTLWLTGDLVARGPG
+                     SLDVLRYVKSLGDSVRLVLGNHDLHLLAVFAGISRNKPKDRLTPLLEAPDADELLNWL
+                     RRQPLLQIDEEKKLVMAHAGITPQWDLQTAKECARDVEAVLSSDSYPFFLDAMYGDMP
+                     NNWSPELRGLGRLRFITNAFTRMRFCFPNGQLDMYSKESPEEAPAPLKPWFAIPGPVA
+                     EEYSIAFGHWASLEGKGTPEGIYALDTGCCWGGTLTCLRWEDKQYFVQPSNRHKDLGE
+                     AAAS"
+     gene            complement(2717..3094)
+                     /gene="apaG"
+                     /locus_tag="ECD_00054"
+     CDS             complement(2717..3094)
+                     /gene="apaG"
+                     /locus_tag="ECD_00054"
+                     /note="similar to b0050"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein associated with Co2+ and Mg2+ efflux"
+                     /protein_id="ACT41955.1"
+                     /db_xref="GI:253976285"
+                     /translation="MINSPRVCIQVQSVYIEAQSSPDNERYVFAYTVTIRNLGRAPVQ
+                     LLGRYWLITNGNGRETEVQGEGVVGVQPLIAPGEEYQYTSGAIIETPLGTMQGHYEMI
+                     DENGVPFSIDIPVFRLAVPTLIH"
+     gene            complement(3097..3918)
+                     /gene="rsmA"
+                     /locus_tag="ECD_00055"
+     CDS             complement(3097..3918)
+                     /gene="rsmA"
+                     /locus_tag="ECD_00055"
+                     /EC_number="2.1.1.-"
+                     /note="similar to b0051"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="16S rRNA m(6)A1518, m(6)A1519
+                     dimethyltransferase, SAM-dependent"
+                     /protein_id="ACT41956.1"
+                     /db_xref="GI:253976286"
+                     /translation="MNNRVHQGHLARKRFGQNFLNDQFVIDSIVSAINPQKGQAMVEI
+                     GPGLAALTEPVGERLDQLTVIELDRDLAARLQTHPFLGPKLTIYQQDAMTFNFGELAE
+                     KMGQPLRVFGNLPYNISTPLMFHLFSYTDAIADMHFMLQKEVVNRLVAGPNSKAYGRL
+                     SVMAQYYCNVIPVLEVPPSAFTPPPKVDSAVVRLVPHATMPHPVKDVRVLSRITTEAF
+                     NQRRKTIRNSLGNLFSVEVLTGMGIDPAMRAENISVAQYCQMANYLAENAPLQES"
+     gene            complement(3915..>4001)
+                     /gene="pdxA"
+                     /locus_tag="ECD_00056"
+     CDS             complement(3915..>4001)
+                     /gene="pdxA"
+                     /locus_tag="ECD_00056"
+                     /EC_number="1.1.1.262"
+                     /note="similar to b0052"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="4-hydroxy-L-threonine phosphate dehydrogenase,
+                     NAD-dependent"
+                     /protein_id="ACT41957.1"
+                     /db_xref="GI:253976287"
+                     /translation="MVKTQRVVITPGEPAGIGPDLVVQLAQREWPVELVVCADATLLT
+                     NRAAMLGLPLTLRPYSPNSPAQPQTAGTLTLLPVALRAPVTAGQLAVENGHYVVETLA
+                     RACDGCLNGEFAALITGPVHKGVINDAGIPFTGHTEFFEERSQAKKVVMMLATEELRV
+                     ALATTHLPLRDIADAITPALLHEVIAILHHDLRTKFGIAEPRILVCGLNPHAGEGGHM
+                     GTEEIDTIIPVLNELRAQGMKLNGPLPADTLFQPKYLDNADAVLAMYHDQGLPVLKYQ
+                     GFGRGVNITLGLPFIRTSVDHGTALELAGRGKADVGSFITALNLAIKMIVNTQ"
+ORIGIN      
+        1 ggcgtactgc tggcaagctc ggaataccgt catgcgctgg agagcgatat cgaaccattt
+       61 aaaggtttgc tgttggggct gtttttcatc ggtgttggca tgtcgataga ctttggcacg
+      121 ctgcttgaaa acccattgcg cattgtcatt ttgctgctcg gtttcctcat catcaaaatc
+      181 gccatgctgt ggctgattgc ccgaccgttg caagtgccaa ataaacagcg tcgttggttt
+      241 gcggtgttgt tagggcaggg cagtgagttt gcctttgtgg tatttggcgc ggcgcagatg
+      301 gcgaatgtgc tggagccgga gtgggcgaaa tcgctgaccc tggcggtggc gctgtcgatg
+      361 gcagcaacgc cgattctgct ggtgatcctc aatcgccttg agcaatcttc tactgaggaa
+      421 gcgcgtgaag ccgatgagat cgacgaagaa cagccgcgcg tgattatcgc cggattcggt
+      481 cgttttgggc agattaccgg acgtttactg ctctccagcg gggtgaaaat ggtggtactc
+      541 gatcacgatc cggaccatat cgaaaccttg cgtaaatttg gtatgaaagt gttttatggc
+      601 gatgccacgc ggatggattt actggaatct gccggagcgg cgaaagcgga agtgctgatt
+      661 aacgccatcg acgatccgca aaccaacctg caactgacag agatggtgaa agaacatttc
+      721 ccgcatttgc agattattgc ccgcgcccgc gatgtcgacc actacattcg tttgcgtcag
+      781 gcaggcgttg aaaagccgga gcgtgaaacc ttcgaaggtg cgctgaaaac cgggcgtctg
+      841 gcactggaaa gtttaggtct ggggccgtat gaagcgcgag aacgtgccga tgtgttccgc
+      901 cgctttaata ttcagatggt ggaagagatg gcaatggttg agaacgacac caaagcccgc
+      961 gcggcggtct ataaacgcac cagcgcgatg ttaagtgaga tcattaccga ggaccgcgaa
+     1021 catctgtcat taattcaacg acatggctgg cagggaaccg aagaaggtaa acataccggc
+     1081 aacatggcgg atgaaccgga aacgaaaccc tcatcctaat aaagagtgac gtaaatcaca
+     1141 ctttacagct aactgtttgt ttttgtttca ttgtaatgcg gcgagtccag ggagagagcg
+     1201 tggactcgcc agcagaatat aaaattttcc tcaacatcat cctcgcacca gtcgacgacg
+     1261 gtttacgctt tacgtatagt ggcgacaatt ttttttatcg ggaaatctca atgatcagtc
+     1321 tgattgcggc gttagcggta gatcgcgtta tcggcatgga aaacgccatg ccgtggaacc
+     1381 tgcctgccga tctcgcctgg tttaaacgca acaccttaaa taaacccgtg attatgggcc
+     1441 gccatacctg ggaatcaatc ggtcgtccgt tgccaggacg caaaaatatt atcctcagca
+     1501 gtcaaccggg tacggacgat cgcgtaacgt gggtgaagtc ggtggatgaa gccatcgcgg
+     1561 cgtgtggtga cgtaccagaa atcatggtga ttggcggcgg tcgcgtttat gaacagttct
+     1621 tgccaaaagc gcaaaaactg tatctgacgc atatcgacgc agaagtggaa ggcgacaccc
+     1681 atttcccgga ttacgagccg gatgactggg aatcggtatt cagcgaattc cacgatgctg
+     1741 atgcgcagaa ctctcacagc tattgctttg agattctgga gcggcggtaa ttttgtatag
+     1801 aatttacggc tagcgccgga tgcgacgccg gtcgcgtctt atccggcctt cctatatcag
+     1861 gctgtgttta agacgccgcc gcttcgccca aatccttatg ccggttcgac ggctggacaa
+     1921 aatactgttt atcttcccag cgcaggcagg ttaatgtacc accccagcag cagccggtat
+     1981 ccagcgcgta tataccttcc ggcgtacctt tgccctccag cgatgcccag tgaccaaagg
+     2041 cgatgctgta ttcttcagcg acagggccag gaatcgcaaa ccacggtttc agtggggcag
+     2101 gggcctcttc cggcgattct ttgctgtaca tatccagttg accgttcggg aagcaaaaac
+     2161 gcatacgggt aaaagcgttg gtgataaaac gcagtcttcc cagcccccgc aattccggtg
+     2221 accagttatt tggcatatcg ccgtacatag cgtcgagaaa gaagggatag gagtcactcg
+     2281 atagcaccgc ttctacatcg cgcgcgcact ctttggcggt ctgtagatcc cactgcggcg
+     2341 tgatccctgc gtgggccatc accaactttt tctcttcgtc gatttgcagc aaaggctggc
+     2401 gacgcagcca gttaagcagc tcgtcggcat ccggcgcttc cagcagcggt gtcaggcgat
+     2461 ctttcggttt attgcggctg atcccggcaa ataccgccag cagatgcaga tcgtgattgc
+     2521 ccagcaccag acgtacgctg tcgcctaagg atttcacata gcgcagaaca tccagcgaac
+     2581 ccgggccgcg cgcgaccaga tcgcccgtta gccagagggt atctttccca ggggtaaatt
+     2641 ctactttatg cagcaatgcg atcagttcat cgtaacaacc atgaacgtcg ccaataaggt
+     2701 atgtcgccat attcttttaa tgaatgagtg tgggaacggc gagtcggaat acgggaatgt
+     2761 cgatgctgaa agggacgcca ttttcatcga tcatttcgta gtgaccctgc atggtgccca
+     2821 gcggggtttc aatgattgca ccgctggtgt actggtactc ttcgccaggc gcgataagtg
+     2881 gctggacgcc aaccactcct tcgccctgga cttcggtttc acggccattg ccattggtga
+     2941 tcagccagta acgccccaac aactgcactg gcgctcgccc cagattgcgt atggttacgg
+     3001 tataagcaaa aacgtaacgt tcattatcag gtgaagattg tgcctcaatg tagacgcttt
+     3061 gaacctgaat acacactcgg ggcgaattga tcatcgttaa ctctcctgca aaggcgcgtt
+     3121 ctccgccaga tagttcgcca tctggcaata ttgcgcgaca gagatatttt ccgctcgcat
+     3181 cgccgggtcg atccccattc ccgttaacac ctcgacgcta aacaggttgc cgaggctgtt
+     3241 acggatggtt ttacgacgct ggttaaaggc ttcggtggtg atgcggctca acacacgaac
+     3301 atctttaacc gggtgaggca tcgttgcatg aggaaccagg cgcacgacgg cggaatccac
+     3361 tttgggtggt ggtgtaaagg ctgacggcgg tacttccagc actgggatca cgttgcaata
+     3421 gtattgcgcc atgacgctta atcgaccata cgctttgctg ttcggtcctg caaccagacg
+     3481 attcaccacc tctttttgca acataaagtg catgtcggca atggcatcag tatagctaaa
+     3541 cagatggaac atcaacggcg tggagatgtt ataaggcagg ttgccgaaaa cacgcagcgg
+     3601 ctgacccatt ttctcggcca gttcgccaaa gttaaaggtc atcgcatcct gctgataaat
+     3661 cgtcagtttc gggcctaaga atggatgcgt ttgcagacgt gccgccagat cgcggtcaag
+     3721 ttcgatgacc gtcagctggt ccagacgttc gccgaccggc tcggtcaatg ccgccagacc
+     3781 ggggccgatt tcgaccattg cctggccctt ttgcgggtta atggcagaca caatactgtc
+     3841 gatcacgaac tgatcgttga gaaagttttg cccgaagcgt ttacgggcta agtggccctg
+     3901 gtggactcga ttattcattg ggtgttaaca atcattttga tggcgagatt aagcgccgta
+     3961 ataaaactgc cgacatcggc tttgccacgt cccgccagtt c
+//
+

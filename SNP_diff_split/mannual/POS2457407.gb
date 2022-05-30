@@ -1,0 +1,216 @@
+LOCUS       CP001509                4001 bp    DNA     linear   BCT 16-FEB-2017
+DEFINITION  Escherichia coli BL21(DE3), complete genome.
+ACCESSION   CP001509 REGION: 2455407..2459407
+VERSION     CP001509.3  GI:296142109
+DBLINK      BioProject: PRJNA20713
+            BioSample: SAMN02603478
+KEYWORDS    .
+SOURCE      Escherichia coli BL21(DE3)
+  ORGANISM  Escherichia coli BL21(DE3)
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Barbe,V., Lee,C.H., Vallenet,D., Yu,D.S., Choi,S.H.,
+            Couloux,A., Lee,S.W., Yoon,S.H., Cattolico,L., Hur,C.G., Park,H.S.,
+            Segurens,B., Kim,S.C., Oh,T.K., Lenski,R.E., Studier,F.W.,
+            Daegelen,P. and Kim,J.F.
+  TITLE     Genome sequences of Escherichia coli B strains REL606 and BL21(DE3)
+  JOURNAL   J. Mol. Biol. 394 (4), 644-652 (2009)
+   PUBMED   19786035
+REFERENCE   2  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+REFERENCE   3  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2010) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 4001)
+  AUTHORS   Jeong,H., Shim,J.-H., Studier,F.W., Oh,T.K. and Kim,J.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JAN-2017) Industrial Biotechnology & Bioenergy
+            Research Center, kribb, 111 Gwahangno, Yuseong-gu, Daejeon 305-806,
+            Republic of Korea
+  REMARK    Protein update by submitter
+COMMENT     On May 17, 2010 this sequence version replaced CP001509.2.
+            Bacteria available from F. William Studier (studier@bnl.gov).
+FEATURES             Location/Qualifiers
+     source          1..4001
+                     /organism="Escherichia coli BL21(DE3)"
+                     /mol_type="genomic DNA"
+                     /strain="BL21(DE3)"
+                     /db_xref="taxon:469008"
+     gene            330..686
+                     /gene="yffB"
+                     /locus_tag="ECD_02362"
+     CDS             330..686
+                     /gene="yffB"
+                     /locus_tag="ECD_02362"
+                     /note="similar to b2471"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative ArsC family reductase"
+                     /protein_id="ACT44183.1"
+                     /db_xref="GI:253978513"
+                     /translation="MVTLYGIKNCDTIKKARRWLEANNIDYRFHDYRVDGLDSELLND
+                     FINELGWEALLNTRGTTWRKLDETTRNKITDAASAAALMTEMPAIIKRPLLCVPGKPM
+                     LLGFSDSSYQQFFHEV"
+     gene            690..1817
+                     /gene="dapE"
+                     /locus_tag="ECD_02363"
+     CDS             690..1817
+                     /gene="dapE"
+                     /locus_tag="ECD_02363"
+                     /EC_number="3.5.1.18"
+                     /note="similar to b2472"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="N-succinyl-diaminopimelate deacylase"
+                     /protein_id="ACT44184.1"
+                     /db_xref="GI:253978514"
+                     /translation="MSCPVIELTQQLIRRPSLSPDDAGCQALLIERLQAIGFTVERMD
+                     FADTQNFWAWRGQGETLAFAGHTDVVPPGDADRWINPPFEPTIRDGMLFGRGAADMKG
+                     SLAAMVVAAERFVAQHPNHTGRLAFLITSDEEASAHNGTVKVVEALMARNERLDYCLV
+                     GEPSSIEVVGDVVKNGRRGSLTCNLTIHGVQGHVAYPHLADNPVHRAAPFLNELVAIE
+                     WDQGNEFFPATSMQIANIQAGTGSNNVIPGELFVQFNFRFSTELTDEMIKAQVLALLE
+                     KHQLRYTVDWWLSGQPFLTARGKLVDAVVNAVEHYNEIKPQLLTTGGTSDGRFIARMG
+                     AQVVELGPVNATIHKINECVNAADLQLLARMYQRIMEQLVA"
+     gene            1845..2045
+                     /gene="ypfN"
+                     /locus_tag="ECD_02364"
+     CDS             1845..2045
+                     /gene="ypfN"
+                     /locus_tag="ECD_02364"
+                     /note="similar to b4547"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative membrane protein, UPF0370 family"
+                     /protein_id="ACT44185.1"
+                     /db_xref="GI:253978515"
+                     /translation="MDWLAKYWWILVIVFLVGVLLNVIKDLKRVDHKKFLANKPELPP
+                     HRDFNDKWDDDDDWPKKDQPKK"
+     gene            complement(2155..2853)
+                     /gene="ypfH"
+                     /locus_tag="ECD_02365"
+     CDS             complement(2155..2853)
+                     /gene="ypfH"
+                     /locus_tag="ECD_02365"
+                     /note="similar to b2473"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="palmitoyl-CoA esterase activity, uncertain
+                     physiological substrate"
+                     /protein_id="ACT44186.1"
+                     /db_xref="GI:253978516"
+                     /translation="MKHDHFVVQSPDKPAQQLLLLFHGVGDNPVAMGEIGNWFAPLFP
+                     DALVVSVGGAEPSGNPAGRQWFSVQGITEDNRQARVDAIMPTFIETVRYWQKQSGVGA
+                     NATALIGFSQGAIMVLESIKAEPGLASRVIAFNGRYASLPETASTATTIHLIHGGEDP
+                     VIDLAHAVAAQEALISAGGDVTLDIVEDLGHAIDNRSMQFALDHLRYTIPKHYFDEAL
+                     SGGKPGDDDVIEMM"
+     gene            complement(2927..>4001)
+                     /gene="tmcA"
+                     /locus_tag="ECD_02366"
+     CDS             complement(2927..>4001)
+                     /gene="tmcA"
+                     /locus_tag="ECD_02366"
+                     /note="similar to b2474"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="elongator methionine tRNA (ac4C34)
+                     acetyltransferase"
+                     /protein_id="ACT44187.1"
+                     /db_xref="GI:253978517"
+                     /translation="MAELTALHTLTAQMKREGIRRLLVLSGEEGWCFEHTLKLRDALP
+                     GDWLWISPRPDAENHCSPSALQTLLGREFRHAVFDARHGFDAAAFAALSGTLKAGSWL
+                     VLLLPVWEEWENQPDADSLRWSDCPDPIATPHFVQHLKRVLTADNEAILWRQNQPFSL
+                     AHFTPRTDWYPATGAPQPEQQQLLKQLMTMPPGVAAVTAARGRGKSALAGQLISRIAG
+                     RAIVTAPAKASTDVLAQFAGEKFRFIAPDALLASDEQADWLVVDEAAAIPAPLLHQLV
+                     SRFPRTLLTTTVQGYEGTGRGFLLKFCARFPHLHRFELQQPIRWAQGCPLEKMVSEAL
+                     VFDDENFTHTPQGNIVISAFEQTLWQSDPETPLKVYQLLSGAHYRTSPLDLRRMMDAP
+                     GQHFLQAAGENEIAGALWLVDEGGLSQQLSQAVWAGFRRPRGNLVAQSLAAHGNNPLA
+                     ATLRGRRVSRIAVHPARQREGTGRQLIAGALQYTQDLDYLSVSFGYTGELWRFWQRCG
+                     FVLVRMGNHREASSGCYTAMALLPMSDAGKQLAEREHYRLRRDAQALAQWNGETLPVD
+                     PLNDAVLSDDDWLELAGFAFAHRPLLTSLGCLLRLLQTSELALPALRGRLQKNASDAQ
+                     LCTTLKLSGRKMLLVRQREEAAQALFALNDVRTERLRDRITQWQLFH"
+ORIGIN      
+        1 gaagctaatt tactcgattg ctgcgatgac tacctccggg ggacaaatct tatgtaaata
+       61 ctatggtcct gcggtgatga tttgtatgtg atacacagca acatttcgag atattcatac
+      121 ggcatctaat actgatttaa ttctggttaa aatacagaca gataacaaga tgaatattct
+      181 taatgtttac gttaaaaatg tttaatatta tttaatagtt gttaatttga atacttcgat
+      241 aatgttatat ttcctgataa tcatttgcag gcaaaatgtt ttcaccctta aatgagtatt
+      301 tattctcata aatcgaaaaa ggattcatta tggttacact ttacggtatc aaaaattgtg
+      361 acaccattaa aaaggctcgc cgttggctgg aagccaataa catcgactat cgttttcatg
+      421 attaccgcgt cgatgggctg gacagcgaat tattgaacga ttttatcaac gaattaggct
+      481 gggaagcgtt actcaacacc cgtggtacaa cctggcgtaa actggacgaa accacccgca
+      541 ataaaatcac cgatgcggcc tctgcggcgg cattaatgac tgaaatgcct gcaattatca
+      601 aacgtccatt gctctgcgtg cccggtaagc ctatgctgct gggtttcagt gattccagtt
+      661 atcagcaatt tttccatgag gtgtagtcta tgtcgtgccc ggttattgag ctgacacaac
+      721 agcttattcg ccgcccttcc ctgagtcctg atgatgcagg atgccaggct ttgttgattg
+      781 aacgtttgca ggcgatcggt tttaccgttg aacgcatgga ctttgccgat acgcagaatt
+      841 tttgggcatg gcgtgggcag ggtgaaacgt tagcctttgc cgggcatacc gacgtggtgc
+      901 cgcctggcga cgccgatcgt tggatcaatc ccccgtttga acccaccatt cgtgacggca
+      961 tgttattcgg gcgcggtgcg gcagatatga aaggctcgct ggcggcgatg gtggtggcgg
+     1021 cagaacgttt tgtcgcacaa catcccaacc atacggggcg actggcattt ctgatcacct
+     1081 ctgatgaaga agccagtgcc cacaacggta cggtaaaagt cgtcgaagcg ttaatggcac
+     1141 gtaatgagcg tctcgattac tgcctggttg gcgaaccgtc gagtatcgaa gtggtaggtg
+     1201 atgtggtgaa aaatggtcgt cgcggatcat taacctgcaa ccttaccatt catggcgttc
+     1261 aggggcatgt tgcctaccca catctggctg acaatccggt acatcgcgca gcacctttcc
+     1321 ttaatgaatt agtggctatt gagtgggatc agggcaatga attcttcccg gcgaccagta
+     1381 tgcagattgc caatattcag gcgggaacgg gcagtaacaa cgttattccg ggtgaactgt
+     1441 ttgtgcagtt taacttccgc ttcagcaccg aactgactga tgagatgatc aaagcgcagg
+     1501 tgcttgccct gcttgaaaaa catcaactgc gctatacggt ggattggtgg ctttccgggc
+     1561 agccattttt gaccgcgcgc ggtaaactgg tggatgcggt cgttaacgcg gttgagcact
+     1621 ataatgaaat taaaccgcag ctactgacca caggcggaac gtccgacggg cgctttattg
+     1681 cccgcatggg ggcgcaggtg gtggaactcg ggccggtcaa tgccactatt cataaaatta
+     1741 atgaatgtgt gaacgctgcc gacctgcagc tacttgcccg tatgtatcaa cgtatcatgg
+     1801 aacagctcgt cgcctgatga gtggttctgc aagaggaaat aagcatggac tggctggcta
+     1861 aatattggtg gattctggtg attgtctttt tggtaggcgt cctgctgaac gtgattaaag
+     1921 atctcaagcg cgtcgaccat aagaaatttc tcgccaacaa gccggagctt cccccgcatc
+     1981 gtgatttcaa cgataagtgg gacgatgacg acgactggcc gaaaaaggat caaccgaaga
+     2041 agtaagctga gtgctcaacc gtaggccgga taaggcgtta acgccgcatc cggcaatggt
+     2101 gaacgatgcc tgatgcgacg ctcacgcgtc ttatcaggcc aggtaatctg tcttttacat
+     2161 catttcaatc acatcatcat cgccaggctt accgccactt agcgcttcgt cgaaataatg
+     2221 tttcggaatg gtataacgca agtgatccag ggcaaattgc atactgcgat tgtcgatcgc
+     2281 atggcctaaa tcctccacga tatccagcgt cacgtcacca ccggcactga ttaacgcttc
+     2341 ctgcgccgca accgcatgcg ccagatcgat aaccggatct tcaccgccat gaatcaggtg
+     2401 aattgtcgtg gctgtagacg cagtttccgg caggctcgca tagcgtccgt taaaagcaat
+     2461 gacgcgtgaa gcaaggcccg gttcggcttt aatgctctcc agcaccataa tcgcgccttg
+     2521 agagaaaccg atgagcgccg tggcgttagc ccctactccg ctctgtttct gccagtagcg
+     2581 caccgtttca ataaacgtcg gcatgatcgc atccacacgc gcctggcgat tatcttccgt
+     2641 aataccctgc accgaaaacc actgacgccc cgccggatta ccgctcggct ccgcgccacc
+     2701 gacactcacc accagcgcat caggaaacag cggtgcaaac cagttgccta tttcccccat
+     2761 tgccaccggg ttatccccga caccgtggaa aagcagtaac aactgttgcg caggtttatc
+     2821 cgggctttga acaacaaaat ggtcatgttt catggcgaac tccttaactg atgtcattaa
+     2881 ttttacgccg ctgactcaca atgaccatga gataaaattg aaggagtcag tgaaataatt
+     2941 gccattgcgt tatgcgatcg cgcagacgct cagtgcgaac atcattaagt gcgaacagcg
+     3001 cctgcgcggc ctcttcccgc tgacggacca gtaacatctt gcggcctgaa agtttaagtg
+     3061 tggtacataa ctgcgcatca ctggcgtttt tctgtaaacg cccacgcagc gccggtaatg
+     3121 ccagttcact ggtttgtaac agacgcaata agcaacctaa cgacgttaat agcggacgat
+     3181 gagcgaaagc aaaaccggcc agttcaagcc agtcgtcgtc agaaaggacg gcatcgttta
+     3241 gtggatcaac aggaagcgtt tcgccattcc actgcgcgag agcttgcgca tcgcgacgta
+     3301 aacggtaatg ctcacgttca gccagctgtt tacccgcatc actcatcggt aacagcgcca
+     3361 tcgccgtata gcaaccgctg ctggcttccc gatgattacc catccgcacc agcacaaaac
+     3421 cgcagcgttg ccagaaacgc cataactccc cggtgtaacc aaaactcacc gaaagatagt
+     3481 cgaggtcttg cgtatattgc aaagcaccag caataagttg ccgccctgtg ccttcccgct
+     3541 gacgagccgg atgaactgct atccggctga cccgccgtcc acgcaatgtc gccgccagtg
+     3601 gattgttgcc gtgcgccgcc agcgactggg ccaccagatt accccgcggg cgacgaaaac
+     3661 ctgcccatac cgcctgactg agttgttgag ataatccacc ctcatccacc agccacagcg
+     3721 ccccggcaat ctcgttttcg ccagccgcct gtaaaaaatg ttgccctggt gcatccatca
+     3781 tccggcgtaa atccagcggc gaagtccgat agtgcgcacc agacaagagc tgataaacct
+     3841 ttaacggcgt ttctggatcg ctttgccata acgtctgttc aaatgcggaa atgacaatat
+     3901 tgccttgtgg tgtatgggtg aagttttcat cgtcaaaaac cagtgcctcg ctgaccattt
+     3961 tttccagcgg gcatccctgc gcccagcgga tcggctgttg c
+//
+

@@ -1,0 +1,6 @@
+POS,REF,ALT,TYPE,Samples,EFFECT,IMPACT,GENE,GENEID,HGVS_P,CDNA_LEN,AA_LEN
+
+POS 索引
+REF ALT一致
+Samples添加
+其它不一致则 diff
